@@ -1,1 +1,1 @@
-# DDM_Pull_practice
+# TP2 - Git Flow MLOps
