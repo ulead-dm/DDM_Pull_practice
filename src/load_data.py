@@ -17,3 +17,4 @@ if datos:
     print("Promedio:", sum(datos) / len(datos))
 else:
     print("No se cargaron datos válidos.")
+print('Loading dataset')
