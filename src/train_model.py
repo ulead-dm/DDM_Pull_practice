@@ -17,4 +17,7 @@ if __name__ == "__main__":
     y = [0, 1, 0, 1]
     model = train_model(X, y)
     print("Model trained:", model)
+
+def save_model(model, path="model.pkl"):
+    print(f"Saving model to {path}")
 # model training script
