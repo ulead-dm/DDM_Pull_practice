@@ -13,3 +13,6 @@ if __name__ == "__main__":
 
     acc = accuracy(y_true, y_pred)
     print(f"Accuracy: {acc}")
+
+def print_report(metric_value):
+    print(f"Evaluation result: {metric_value}")
